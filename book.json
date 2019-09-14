@@ -1,0 +1,19 @@
+{
+    "title": "世界那么大，我只想宅着", 
+    "author": "小奔", 
+    "description": "这是我第一本书，记录了20岁到25岁之间的成长经历一些思考感悟。我用文字来回溯自己的历史，试图从字里行间还原一个90后的小镇青年是如何变得这么丧的。", 
+    "links": {
+      "sidebar": {
+        "个人博客": "https://chinnsyouki.github.io"
+      }
+    }, 
+    "gitbook": ">=3.2.3", 
+    "language": "zh-hans", 
+    "direction": "ltr",
+    "root": "./",
+    "styles": {
+        "website": "styles/website.css",
+        "mobi": "styles/mobi.css",
+        "epub": "styles/epub.css"
+    }
+}
